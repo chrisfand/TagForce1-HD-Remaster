@@ -1,5 +1,5 @@
 # TagForce1-HD-Remaster
-A texture pack for PPSSPP that remasters all cards in Yu-Gi-Oh! GX Tag Force to 4X PSP resolution (1080p). 
+A texture pack for PPSSPP that remasters all cards in Yu-Gi-Oh! GX Tag Force for 1080p (4X PSP resolution).
 
 How to Install
 ==============
